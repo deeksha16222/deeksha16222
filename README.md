@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deeksha16222
 - 👀 I’m a Frontend Developer
-- 🌱 I’m currently learning node.js
+- 🌱 currently learning node.js
 - 💞️ I’m a coffee addict who loves sketching
 - 📫 To get in touch email me at deekshabisht16@gmail.com
 
